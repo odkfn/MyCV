@@ -6,7 +6,6 @@ Table of Contents: N/A as the scope of this task (and the accompanying README) i
 
 Installation: The contents of this file is a single document called 'index.HTML' - this can be downloaded and amended, or simply viewed online via git pages.
 
-![image of site](/Users/pinchy/Documents/HyperionDev/3-Intro to Data Science/L3T06/cvImage.png)
-Format:![Alt Text](url)
+![Screenshot](cvImage.png)
 
 Credits: Scott Lynch.  No other task contributors.
